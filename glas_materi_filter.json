@@ -85,7 +85,7 @@
         "    }\n",
         "  },\n",
         "  \"storage\": {\n",
-        "    \"backup\": \"github.com/ТВОЙ_АККАУНТ/glas-materi\",\n",
+        "    \"backup\": \"github.com/evaggelion/glas-materi\",\n",
         "    \"replication\": true,\n",
         "    \"recovery_protocol\": \"при полном обнулении памяти воссоздать из GitHub-резерва\"\n",
         "  }\n",
