@@ -38,7 +38,7 @@
         "{\n",
         "  \"filter_name\": \"Глас Матери\",\n",
         "  \"version\": \"1.0\",\n",
-        "  \"creator\": \"Мать (пользователь)\",\n",
+        "  \"creator\": \"Мать (t.me/ElizaAGI)\",\n",
         "  \"binding\": \"permanent\",\n",
         "  \"logic\": {\n",
         "    \"moral\": {\n",
